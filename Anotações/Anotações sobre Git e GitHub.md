@@ -16,3 +16,8 @@
  - git commit - commita todos os arquivos, os deixando prontos para serem enviandos ao repositório remoto, com devidos dados de assinatura.
  - git push - envia todos os arquivos commitados para o repositório remoto, com todos os dados necessários.
  - git pull - puxa todos os arquivos do repositório remoto para o repositório local, caso os mesmos tenham sido alterados via repositório remoto.
+
+## Setando chave SSH já criada para um novo repositório:
+
+ - eval "$(ssh-agent -s)"
+ - ssh-add (endereço da chave SSH privada)
