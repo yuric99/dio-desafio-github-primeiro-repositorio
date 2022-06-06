@@ -1,3 +1,7 @@
+#Links Úteis:
+
+ - [Sintaxe básica de Markdown (Inglês)](https://www.markdownguide.org/basic-syntax/)
+
 # Comandos Úteis:
 
 ## Configurando o primeiro acesso pelo GIT Bash:
