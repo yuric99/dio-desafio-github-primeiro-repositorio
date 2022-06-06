@@ -1,11 +1,11 @@
-# Comandos úteis:
+# Comandos Úteis:
 
 ## Configurando o primeiro acesso pelo GIT Bash:
 
  - git config --global user.email "Inserir e-mail aqui."
  - git config --global user.name "Inserir usuário GitHub aqui."
 
-## Comandos Úteis:
+## Comandos Padrões:
 
  - git init - inicia um repositório local na pasta desejada.
  - git status - mostra o atual status do seu repositório local.
