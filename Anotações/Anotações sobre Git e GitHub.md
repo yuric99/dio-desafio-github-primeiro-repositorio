@@ -1,15 +1,13 @@
-# Links Úteis:
+## Links úteis:
 
  - [Sintaxe básica de Markdown (Inglês)](https://www.markdownguide.org/basic-syntax/)
-
-# Comandos Úteis:
 
 ## Configurando o primeiro acesso pelo GIT Bash:
 
  - git config --global user.email "Inserir e-mail aqui."
  - git config --global user.name "Inserir usuário GitHub aqui."
 
-## Comandos Padrões:
+## Comandos gerais para uso básico do GIT Bash:
 
  - git init - inicia um repositório local na pasta desejada.
  - git status - mostra o atual status do seu repositório local.
